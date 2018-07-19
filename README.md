@@ -2,6 +2,9 @@
 # Proyecto 2: DATA DASHBOARD
 
 ## Preámbulo
+En laboratoria 
+
+### Introducción
 En Laboratoria, las Training Managers (TMs) hacen un gran trabajo al analizar la mayor cantidad de datos posibles respecto al progreso de las estudiantes para apoyarlas en su aprendizaje.
 
 La principal medida de progreso de una estudiante en Laboratoria es su avance completando los proyectos de la Ruta de Aprendizaje y su desempeño en función a la Rúbrica de Niveles Esperados. Sin embargo, para completar estos proyectos las estudiantes acceden a contenidos de aprendizaje (lecturas, videos, ejercicios y quizzes) en un sistema que llamamos LMS (Learning Management System). El LMS acumula data sobre quién leyó qué, qué ejercicios se han completado, los resultados de los quizzes, etc.
@@ -9,9 +12,6 @@ La principal medida de progreso de una estudiante en Laboratoria es su avance co
 A pesar de que la data de progreso del LMS (ej. lecturas leídas, ejercicios completados, nota en quizzes, etc.) no impacta directamente en la evaluación de una estudiante, sí es una pieza de información relevante que las TMs quisieran visualizar para tener un mejor entendimiento de cómo va cada estudiante en su proceso de aprendizaje.
 
 Así, el reto de este proyecto es crear una interfaz donde las TMs puedan ver y usar la data de progreso del LMS. Para ello, proponemos crear un data dashboard (tablero de visualización de datos).
-
-### Introducción
-Nuestro segundo proyecto a desarrollar en nuestro proceso de bootcamp es un Data Dashboard, donde las TM podrán revisar de manera más sencilla y gráfica el avance que las alumnas de laboratoria realizan en el LMS. Con la finalidad de poder apoyarlas en su aprendizaje.
 
 ### Proceso de planificación
 Para realizar la planificación del proyecto, se utilizó un tablero Backlog y un planificador online en la plataforma Trello.
@@ -28,10 +28,24 @@ El objetivo principal de este proyecto es crear una herramienta web que permita 
 
 ### Proceso de planeamiento del proyecto
 
+### Entrevista al usuario
+
+1.¿Quiénes son los principales usuarios de producto?
+Nuestros principales usuarios son las Training Managers.
+2.¿Cuáles son los objetivos de estos usuarios en relación con el producto?
+El objetivo principal es hacer un seguimiento a cada uno de nuestras alumnas.
+3.¿Cuáles son los datos más relevantes que quieren ver en la interfaz y por qué. Cómo los descubriste?
+Los datos mas relevantes son los quizzes.
+4.¿Cuándo revisan normalmente estos datos los usuarios?
+Normalmente se realiza al finalizar cada demo.
+5¿Cómo crees que el producto les está resolviendo sus problemas?
+Nos permitira manejar estadisticas reales el proceso de cada alumna.
+6¿Cómo fue tu proceso de diseño?
+Nuestro proceso de diseño de alta fidelidad se manejo en marvel, recibimos feedback para mejorar la interacción con el usuario. 
 ### User Experience Design
 
 #### 1) Definición del producto
-
+Nuestro producto tiene la finalidad de permitir a las Training Managers de Laboratoria, tener en tiempo real y actualizado, las notas y proceso de cada una de las estudiantes.Con la finalidad de hacer un seguimiento.
 
 #### 2) Sketch de la solución (prototipo de baja fidelidad)
 
@@ -46,14 +60,8 @@ El prototipo de Alta fidelidad que usamos lo implementamos en marvel, pedimos Fe
 ![Prototipo](src/Imagen/Prototipo-Marvel.jpg)
 
 ### Implementación de la Interfaz de Usuario (HTML/CSS/JS)
-
-Luego de diseñar tu interfaz de usuario deberás trabajar en su implementación.
-Como mencionamos, **no** es necesario que construyas la interfaz tal como la
-diseñaste. Tendrás un tiempo limitado para hackear, así es que deberás priorizar.
-
-Como mínimo, tu implementación debe:
-
-1. Permitir al usuario seleccionar un cohort de una lista de cohorts.
+Nuestra interfaz permite al usuario
+1. Seleccionar un cohort de una lista de cohorts.
 2. Al seleccionar un cohort:
    - Listar las estudiantes de ese cohort
    - Para cada estudiante:
