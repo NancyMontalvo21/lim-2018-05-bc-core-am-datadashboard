@@ -32,29 +32,6 @@ El objetivo principal de este proyecto es crear una herramienta web que permita 
 
 #### 1) Definición del producto
 
-Nuestro proyecto Data Dashboard tiene como finalidad dar una solución a nuestras Training Manager, para hacer un correcto seguimiento a las estudiantes.
-Para ello, realizamos una entrevista personal a nuestra Training Manager (TM) de Lima, Alejandra Ramirez, en la que solicitamos feedback del primer draft elaborado.
-
-#### Preguntas de nuestra entrevista
-* ¿Quiénes son los principales usuarios de producto?
-
-Las Training Manager de las diferentes sedes de Laboratoria y el equipo de colaboradores.
-
-* ¿Cuáles son los objetivos de estos usuarios en relación con el producto?
-
-Los usuarios esperan encontrar un panel que muestre de manera global los datos de los progresos de las estudiantes con respecto a su promoción, poder ordenarlos y filtrarlos  según su completitud, y realizar búsquedas por nombres, para poder realizar un mejor seguimiento y tomar decisiones acertadas con respecto a que está funcionando y qué no con respecto al aprendizaje del grupo. 
-
-* ¿ Cuáles son los datos más relevantes que quieren ver en la interfaz y por qué?
-
-Al realizar la entrevista a la TM, ella nos solicitó mostrar de manera clara el porcentaje de completitud de cada alumna en cuanto a ejercicios, lecturas  y cuestionarios en un listado que pueda filtrarse. Con base en ello, trabajamos en nuestro primer prototipo de alta fidelidad en Figma.
-
-* ¿Cuándo revisan normalmente estos datos los usuarios?
-
-En fechas clave como al inicio y final de cada Bootcamp y al finalizar cada proyecto, para revisar el progreso de cada alumna.
-
-* ¿Cómo crees que el producto les está resolviendo sus problemas?
-
-La interfaz le permite a nuestra Training Manager y colaboradores seguir en proceso del desempeño de las estudiantes de manera clara y rápida en ella se puede realizar la búsqueda de las alumnas por nombre y filtrar de manera ascendente y descendente según su puntaje, con ello obtenemos una mejor organización, visibilidad en el menor tiempo posible.
 
 #### 2) Sketch de la solución (prototipo de baja fidelidad)
 
