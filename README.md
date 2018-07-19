@@ -30,22 +30,22 @@ El objetivo principal de este proyecto es crear una herramienta web que permita 
 
 ### Entrevista al usuario
 1. ¿Quiénes son los principales usuarios de producto?
-    Nuestros principales usuarios son las Training Managers.
+   - Nuestros principales usuarios son las Training Managers.
 
 2. ¿Cuáles son los objetivos de estos usuarios en relación con el producto?
-    El objetivo principal es hacer un seguimiento a cada uno de nuestras alumnas.
+   - El objetivo principal es hacer un seguimiento a cada uno de nuestras alumnas.
 
-3. ¿Cuáles son los datos más relevantes que quieren ver en la interfaz y por qué. Cómo los descubriste?
-    Los datos mas relevantes son los quizzes.
+3. ¿Cuáles son los datos más relevantes que quieren ver en la interfaz?
+    - Los datos mas relevantes son los quizzes.
 
 4. ¿Cuándo revisan normalmente estos datos los usuarios?
-    Normalmente se realiza al finalizar cada demo.
+   - Normalmente se realiza al finalizar cada demo.
 
 5. ¿Cómo crees que el producto les está resolviendo sus problemas?
-    Nos permitira manejar estadisticas reales el proceso de cada alumna.
+    - Nos permitira manejar estadisticas reales el proceso de cada alumna.
 
 6. ¿Cómo fue tu proceso de diseño?
-    Nuestro proceso de diseño de alta fidelidad se manejo en marvel, recibimos feedback para mejorar la interacción con el usuario.
+    - Nuestro proceso de diseño de alta fidelidad se manejo en marvel, recibimos feedback para mejorar la interacción con el usuario.
 
 ### User Experience Design
 
